@@ -5,15 +5,11 @@
         }
     },
     "require": {
-        "videlalvaro/php-amqplib": "2.5.*",
-        "guzzlehttp/guzzle" : "~6.1.0"
     },
     "require-dev": {
         "filp/whoops": "1.1.*",
-        "phpunit/phpunit": "4.8.*",
         "symfony/var-dumper" : ">=2.7.2@stable"
     },
-   
     "repositories": [
         {"type": "composer", "url": "http://packagist.cn"},
         {"packagist": false}

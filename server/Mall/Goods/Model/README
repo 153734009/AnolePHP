@@ -1,0 +1,8 @@
+与Logic同名的模型是 business model,
+其他模型是辅助模型，业务模型操作自己和辅助模型，完成logic的抽象任务
+
+针对不同的数据库，如：mysql mongodb 业务模型的实现会不同，
+
+但是会有和logic同名的方法,
+所以：
+    logic其实就是业务规范，像是mysql模型和mongodb模型的接口

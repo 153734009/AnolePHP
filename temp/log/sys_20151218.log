@@ -1,0 +1,6 @@
+[Fri, 18 Dec 15 17:37:04 +0800][ERROR] #message: Class 'Goods\Service\GoodsCategoryService' not found #file: /mnt/hgfs/git-153734009/AnolePHP_SVN/application/Admin/Controller/ReportController.php #line: 30 #id: 85fdc28d3fe740c5ca9b5dbf62786c98
+
+[Fri, 18 Dec 15 19:21:15 +0800][ERROR] #message: Class 'Mall\Goods\Service\LabelStyleService' not found #file: /mnt/hgfs/git-153734009/AnolePHP_SVN/application/Admin/Controller/ReportController.php #line: 41 #id: 89359e43f6c1e23080c15e35ea17da0f
+
+[Fri, 18 Dec 15 19:32:40 +0800][ERROR] #message: Undefined variable: goodCategoryService #file: /mnt/hgfs/git-153734009/AnolePHP_SVN/application/Admin/Controller/ReportController.php #line: 42 #id: 4d058a93840acf43493f15b12571c7a9
+
